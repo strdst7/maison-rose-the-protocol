@@ -2,6 +2,8 @@
 
 The Rose Protocol is a browser-based cybersecurity quiz for people learning practical digital self-defense.
 
+<img width="4480" height="2520" alt="ops" src="https://github.com/user-attachments/assets/edb4a66d-d788-4ecf-a310-ca709e3978ad" />
+
 ## About
 
 Answer 12 questions about passwords, phishing, account security, and privacy. Each answer reveals an explanation and a practical security habit. Results include your score, rank, and suggestions based on missed questions.
